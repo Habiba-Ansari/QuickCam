@@ -14,7 +14,6 @@ QuickClick is a smart camera app designed for temporary photos that you only nee
 
 ## 📱 Screenshots
 ```
-[Add your screenshots here]
 1. Camera Screen - Full-screen camera with capture button
 2. Gallery View - Grid layout with day counters
 3. Image Preview - Download/Delete options
